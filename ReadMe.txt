@@ -1,1 +1,0 @@
-This is the Desktop and Mobile IOS React Native Version to Clapped To My Set
